@@ -1,0 +1,145 @@
+ ____________       _____     _______    ______   ____________  ____________    
+ \           \    /      |_   \      |  |      | /            \ \           \   
+  \           \  /         \   |     /  /     /||\___/\  \\___/| \           \  
+   |    /\     ||     /\    \  |\    \  \    |/  \|____\  \___|/  |    /\     | 
+   |   |  |    ||    |  |    \ \ \    \ |    |         |  |       |   |  |    | 
+   |    \/     ||     \/      \ \|     \|    |    __  /   / __    |    \/     | 
+  /           /||\      /\     \ |\         /|   /  \/   /_/  |  /           /| 
+ /___________/ || \_____\ \_____\| \_______/ |  |____________/| /___________/ | 
+|           | / | |     | |     | \ |     | /   |           | /|           | /  
+|___________|/   \|_____|\|_____|  \|_____|/    |___________|/ |___________|/  
+
+                    https://files.doxbin.gg/0boGw5T4.mp4
+
+                                       |
+                 ,------------=--------|___________|
+-=============%%%| david.. |  |______|_|___________|
+                 | | | | | | ||| | | | |___________|
+                 `------------=--------|           |
+                                       |
+
+This is NOT a dox. I am dumping info about a shitty Roblox serverside that failed
+miserably.
+
+
+UPDATE: It seems that I might have scared him just a little ;)
+--------------------------------> https://prnt.sc/GBdD7BKYpkgU
+
+
+=================================================
+  ____                            _             
+ |  _ \ ___  __ _ ___  ___  _ __ (_)_ __   __ _ 
+ | |_) / _ \/ _` / __|/ _ \| '_ \| | '_ \ / _` |
+ |  _ <  __/ (_| \__ \ (_) | | | | | | | | (_| |
+ |_| \_\___|\__,_|___/\___/|_| |_|_|_| |_|\__, |
+                                          |___/ 
+=================================================
+
+Let's begin. This stupid little cunt called "14tz" launched the shitside "Super Private Panel" and did the standard growth method, y'know it as getting a bunch of other member hungry servers to advertise them in exchange for 2 members. I know I can't be talking, however at least I can do it without pinging my own server. I'm talking about Fedora if you can't figure that out in your tiny head. 
+
+Next, he decides to craft his state of the art ToS. Obviously, hes too incoherent for that, so the only logical thing he does is copies it straight from Xyclone Serverside (https://ibb.co/FJLWYbQ)
+
+After I talk to one of his buyers debating the state of the serverside community, I ask to see the gui as I wanted to determine if the serverside was gui based. As his little boy-pussy suffers from autism, I'm guessing he clicked the wrong button and purged the channel after banning me ;)
+
+Anyways, he proceeds to tell me that the whitelisted individual will be blacklisted if he shows me a picture of the executor. Not even the game. Just the executor. LOL
+
+
+=================================================
+  _____     _             
+ |  ___|_ _| | _____  ___ 
+ | |_ / _` | |/ / _ \/ __|
+ |  _| (_| |   <  __/\__ \
+ |_|  \__,_|_|\_\___||___/
+
+=================================================
+
+Ah, another chapter. Anyways, 14tz proceeds to fake reviews (or make his buyers do so). His buyers post fake reviews that compose meanings of "good games", "good games RN" (RN = right now)". The funny thing about these, are the fact that only a day later is the first time a single game was proven to be in service. They were talking about the "testing" game that was a gui. No whitelisting, just a gui that he stuck a remote event and basic executor logic on. Lmfao.
+
+----> Fake Review: https://prnt.sc/aGHWMwoZhtKC <----
+
+Ah yes. The games. The most important part of a serverside, it's what you pay for, heh? Well not when it comes to this serverside, the best skidded "harkinian-inspired" serverside name. I pressured him just a little too much it turns out, I make him crack and he sends a "game" that he infected. It turns out we was lying about the entire thing! The developers of the game, Streetz War 2, a game with 2k+ active players on a good hour, said that the game was infected for a good 10 minutes. The only webhook it sent was from studio. Here is a screenshot of that game in their logs:
+
+----> Skidded looking webhook: https://prnt.sc/mKEYUrnaiz7Z <----
+
+During that argument, I was sent that same screenshot, with the "uninfected" message generously not included. Amazing lying skills, 14tz. I mean from the webhook, you can tell that he definitely copy and pasted that webhook. Nobody would ever go out of their way to take a HEX code and transform it into the 0x for bright red, plus he cant even do codeblocks right :rofl:
+
+
+=================================================
+ __        __   _     _                 _        
+ \ \      / /__| |__ | |__   ___   ___ | | _____ 
+  \ \ /\ / / _ \ '_ \| '_ \ / _ \ / _ \| |/ / __|
+   \ V  V /  __/ |_) | | | | (_) | (_) |   <\__ \
+    \_/\_/ \___|_.__/|_| |_|\___/ \___/|_|\_\___/
+=================================================
+
+Still discord based? Love getting your hooks spammed? Welcome to the world of being a non-adapting retard!
+
+Please note that this is public so they are probably invalid at this time.
+(RULES) -> https://discord.com/api/webhooks/1172986032719941772/OFCTNLMjB45AZNBzUGBVEHuZ0vs7lHFXgtU6peTux4r-twDWUdP9k6D4gB2fvhw04I34
+(UNKNOWN) -> https://discord.com/api/webhooks/1173297919160487956/rQ99UbbEUVmiTzfvrQLE3sqNZVypMgKnOOffMcp0ytZ2Nj7e4b2Pa_0A0lrBAK-2ir5j
+(PRE LOGS) -> https://discord.com/api/webhooks/1173281062152048740/ZPELigQaVikkBX7iEHHRlzDsGrNrdI7XcO0QabT3kHb5MCauQ1rVvRKYZdbbcWcSLZ59
+(SCRI LOGS) -> https://discord.com/api/webhooks/1173297919160487956/rQ99UbbEUVmiTzfvrQLE3sqNZVypMgKnOOffMcp0ytZ2Nj7e4b2Pa_0A0lrBAK-2ir5
+
+
+=================================
+  _   _       _    _             
+ | \ | |_   _| | _(_)_ __   __ _ 
+ |  \| | | | | |/ / | '_ \ / _` |
+ | |\  | |_| |   <| | | | | (_| |
+ |_| \_|\__,_|_|\_\_|_| |_|\__, |
+                           |___/ 
+=================================
+
+I will be attempting to nuke via social engineering as a new member. Their staff better be ready, I have some tricks up my sleeve. This page will be updated afterwards.
+
+
+=======================================================
+  __  __       _       __  __           _       _      
+ |  \/  | __ _(_)_ __ |  \/  | ___   __| |_   _| | ___ 
+ | |\/| |/ _` | | '_ \| |\/| |/ _ \ / _` | | | | |/ _ \
+ | |  | | (_| | | | | | |  | | (_) | (_| | |_| | |  __/
+ |_|  |_|\__,_|_|_| |_|_|  |_|\___/ \__,_|\__,_|_|\___|
+=======================================================
+
+This is what you have been waiting for! His entire little skidded serverside. Go ahead and download, however this might be the most worthless thing to download ever, I mean, it's not even obfuscated.
+
+----> MAINMODULE DOWNLOAD: https://file.io/DR55DCWXSAia <----
+
+
+====================================================================================
+  ____      _                _          _   __  __            _   _                 
+ |  _ \ ___| |_ __ _ _ __ __| | ___  __| | |  \/  | ___ _ __ | |_(_) ___  _ __  ___ 
+ | |_) / _ \ __/ _` | '__/ _` |/ _ \/ _` | | |\/| |/ _ \ '_ \| __| |/ _ \| '_ \/ __|
+ |  _ <  __/ || (_| | | | (_| |  __/ (_| | | |  | |  __/ | | | |_| | (_) | | | \__ \
+ |_| \_\___|\__\__,_|_|  \__,_|\___|\__,_| |_|  |_|\___|_| |_|\__|_|\___/|_| |_|___/
+====================================================================================
+
+Here is a total list of all the retards that work for this kid.
+
+User: ! QM80
+Role: Co Owner
+State: Retarded, makes shitty raids against people that don't do anything against them
+
+User: q4tz
+Role: Developers
+State: Make a shitty product, but I don't see anything else to hate
+
+User: veyo12k
+Role: Infector
+State: Retarded, only because he works for them. He is aight, nothing to hate.
+
+
+==================================================
+   ____                 _           _             
+  / ___|___  _ __   ___| |_   _ ___(_) ___  _ __  
+ | |   / _ \| '_ \ / __| | | | / __| |/ _ \| '_ \ 
+ | |__| (_) | | | | (__| | |_| \__ \ | (_) | | | |
+  \____\___/|_| |_|\___|_|\__,_|___/_|\___/|_| |_|
+==================================================
+
+I could have added more, but I got a little bored. Anyways, 14tz is a real black nigga (he steals everything LOL) and can't respond to some criticism. His administrators and moderators are some of the worst pretenders of being over 13, they openly raid servers for fun in a server for a serverside. A bit edgy eh?
+
+14tz changed his profile to "hidden" with a profile picture that matches him: autistic.
+USER ID -> 1166769447290294315
+PROFILE -> https://discord.com/users/1166769447290294315
+
