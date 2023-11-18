@@ -2,10 +2,19 @@
 <html lang="en">
 
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@400;700&display=swap">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="view the latest pwns or view others">
+
+  <meta property="og:title" content="cÿpher pwned you">
+  <meta property="og:description" content="view the latest pwns or view others">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="https://cdn.discordapp.com/attachments/1165849016408481792/1175220956340424796/CexOmS7.png?ex=656a70ce&is=6557fbce&hm=03c08dc39eb75dd3d8098d30d84b587fea20da460420efb7849522a8ad1027ba&" />
+  <meta name="twitter:title" content="cÿpher pwned you">
+  <meta name="twitter:description" content="view the latest pwns or view others">
+  <meta name="theme-color" content="#979C9F">
 
   <style>
     #card-container {
@@ -41,6 +50,10 @@
       animation: rainbow 5s linear infinite;
     }
 
+    #card-container .text-ti {
+      font-size: 0.9rem;
+    }
+
     @keyframes rainbow {
       0% {
         color: #ff0000;
@@ -72,18 +85,23 @@
     }
   </style>
 
-  <title>sponsored by fedora</title>
+  <title>cÿpher</title>
+  <link rel="icon"
+    href="https://cdn.discordapp.com/attachments/1165849016408481792/1175220956340424796/CexOmS7.png?ex=656a70ce&is=6557fbce&hm=03c08dc39eb75dd3d8098d30d84b587fea20da460420efb7849522a8ad1027ba&"
+    type="image/x-icon">
 </head>
 
 <body class="min-h-screen bg-black flex justify-center items-center">
-  <div id="app" class="bg-gray-800 rounded-lg p-5 relative">
+  <div id="app" class="bg-gray-800 rounded-lg p-6 relative">
     <div id="pastes-text" class="text-xs font-bold relative">Pastes</div>
 
-    <a href="/getpwned/pastes/secretservicepanel" id="card-container" class="p-2 rounded-lg flex flex-col items-start mt-3">
-      <span class="text-white text-sm font-semibold mb-auto">Secret Service Panel - #1 skid serverside</span>
+    <a href="#example" id="card-container" class="p-2 rounded-lg flex flex-col items-start mt-3">
+      <span class="text-white text-ti font-semibold mb-auto">Secret Service Panel - #1 skid serverside</span>
       <p class="text-xs text-gray-400 mt-auto">by: <span class="text-yellow-500">Admin</span></p>
     </a>
   </div>
+
+
 
   <div id="overlay-text"></div>
 
