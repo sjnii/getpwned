@@ -17,13 +17,18 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@400;700&display=swap">
   <style>
-    #announcements-text {
-      color: #757575;
-    }
-
     #app {
       background-color: #080808;
       position: relative;
+      display: flex;
+      flex-direction: column;
+      justify-content: center; /* Center vertically */
+      align-items: center; /* Center horizontally */
+    }
+
+    #announcements-text {
+      color: #757575;
+      font-size: 24px; /* Adjust font size as needed */
     }
 
     #overlay-text {
